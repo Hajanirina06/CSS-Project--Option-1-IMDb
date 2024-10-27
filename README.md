@@ -11,6 +11,7 @@ This project is a simple analysis of movie data using Python. It reads data from
 
 To run the code, you need the following Python libraries:
 - `pandas`
+
 You can install it using:
 ```bash
 pip install pandas
